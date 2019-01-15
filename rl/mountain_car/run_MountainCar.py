@@ -2,7 +2,7 @@
 # coding=utf-8
 
 import gym
-from RL_brain2 import DQNPrioritizedReplay
+from RL_brain import DQNPrioritizedReplay
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import numpy as np
